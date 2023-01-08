@@ -1,4 +1,4 @@
-# Assessment and Project: Fundamentals of Data Analysis
+# Project 2 : Programming for Data Analysis
 ***
 
 ### by John Loughnane - Student Number : G00388113
@@ -6,16 +6,8 @@
 
 ## Introduction: what this repository contains.
 ***
-The repository is 'funddata-assessment' and in there you will find normal-distribution.ipynb which is the jupyter notebook for the Project.
-You will also find exam_results.csv. There is a folder called **exercises** which has all the five jupyter notebooks for the assesments :
+The repository is 'https://github.com/loughjo/ProgDataAnalysis-Project-2' and in there you will find ProgDataAnalysisProject2.ipynb which is the jupyter notebook for second Project in the module Programming for Data Analysis.
 
-- 01-information-exercises.ipynb  
-- 03-bias-exercises.ipynb      
-- 05-cleansing-exercises.ipynb 
-- 02-randomness-exercises.ipynb   
-- 04-outliers-exercises.ipynb
-
-There is also the morley.csv, iris.data and exam_results.csv datasets.
 
 ## Setup
 ***
