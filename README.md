@@ -18,16 +18,16 @@ https://www.anaconda.com/
 You can find Cmder at the website :
 https://cmder.app/
 
-You will need to pull the github repository https://github.com/loughjo/funddata-assessment/ down to your local machine.
+You will need to pull the github repository https://github.com/loughjo/ProgDataAnalysis-Project-2 down to your local machine.
 
 
 ## How to get the code running
 ***
-Once cmder is started up you should be able to got to the directory path where you have downloaded the **funddata-assesment** repository
+Once cmder is started up you should be able to got to the directory path where you have downloaded the **ProgDataAnalysis-Project-2** repository
 
-cd  funddata-assesment
+cd  ProgDataAnalysis-Project-2
 
-In the funddata-assesment directory you will find the normal-distribution.ipynb and folder **exercises** which contains the jupyter notebooks for the assements.
+In the ProgDataAnalysis-Project-2 directory you will find the ProgDataAnalysisProject2.ipynb, Wisconsin Breast Cancer Original Dataset and Readme file.
 
 From here you can run **jupyter notebook** which launches the Jupyter Notebook App. The notebook interface will appear in a new browser window or tab and you will see the normal-distribution.ipynb jupyter notebook, Readme file exercsise folder and datasets. 
 
@@ -39,11 +39,13 @@ Each Jupyter notebook has markdown cells and comments in the code cells to expla
 
 ## References
 ***
-https://towardsdatascience.com/5-ways-to-use-a-seaborn-heatmap-python-tutorial-c79950f5add3
+https://realpython.com/pandas-python-explore-dataset/
 
-https://www.w3schools.com/python/ref_random_seed.asp
+https://realpython.com/tutorials/machine-learning/
 
-https://sparkbyexamples.com/numpy/python-numpy-round-array-function/
+https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp
+
+https://www.w3schools.com/python/python_ml_train_test.asp
 
 
 
