@@ -31,21 +31,18 @@ In the ProgDataAnalysis-Project-2 directory you will find the ProgDataAnalysisPr
 
 From here you can run **jupyter notebook** which launches the Jupyter Notebook App. The notebook interface will appear in a new browser window or tab and you will see the normal-distribution.ipynb jupyter notebook, Readme file exercsise folder and datasets. 
 
+## Special Note
+***
+For Synthesising the dataset I used Synthetic Data Vault (SDV) which requires install the SDV library below. 
+
+#Install SDV
+pip install sdv
+
 
 ## Running
 ***
 Once a jupyter notebook is open you can go run the code or markdown cells.
 Each Jupyter notebook has markdown cells and comments in the code cells to explain the code in the Project and assessments.  
-
-## References
-***
-https://realpython.com/pandas-python-explore-dataset/
-
-https://realpython.com/tutorials/machine-learning/
-
-https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp
-
-https://www.w3schools.com/python/python_ml_train_test.asp
 
 
 
